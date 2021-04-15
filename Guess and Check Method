@@ -5,6 +5,8 @@ for guess in range (cube+1):
     if guess**3 == cube:
         print ("Cube root of", cube, "is", guess)
         
+#this code tells us that when we pick a number that is beyond the reasonable number of cuberoot of our cubes, 
+#then we should stop. if 3 to power of 3 is greater than 9 then 4 to thte power of 3 will also be grater than 9
 cube = 9
 for guess in range (cube+1):
     if guess**3 >= abs (cube):
