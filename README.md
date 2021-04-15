@@ -10,5 +10,5 @@ Code can be seen here: https://github.com/ritzmeya/Python/commit/40ae718d87c84db
 
 2. Approximate Solution: Approximating Solutions, also called Trial and Error, or Trial and Improvement, is used for calculating values when an equation cannot be solved using another method. The process involves estimating a start value, deriving the answer from the equation, and then improving the next estimate. Code can be seen here: https://github.com/ritzmeya/Python/commit/481ff85c12107621007f9179369a08c4a9e7b824
 
-3. Bisection Research Method
-4. 
+3. Bisection Research Method: code can be seen here: https://github.com/ritzmeya/Python/blob/main/Bisection%20Research%20Code
+ 
